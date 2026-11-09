@@ -2,7 +2,7 @@
 
 Create HEVC archive videos from selected photos and restore frames or available originals.
 
-[Official product website](https://pixel-vault.arte-soft.com/) · [App Store listing](https://apps.apple.com/app/id6760718313) · [Side-by-side comparisons](https://pixel-vault.arte-soft.com/compare/) · [Guides & workflows](https://pixel-vault.arte-soft.com/articles/) · [Full LLM reference (llms-full.txt)](https://pixel-vault.arte-soft.com/llms-full.txt) · [Arte Soft EOOD](https://arte-soft.com/)
+[Official product website](https://pixel-vault.arte-soft.com/) · [App Store listing](https://apps.apple.com/us/app/photo2video-archive/id6760718313?pt=127093297&ct=github_photo_archive&mt=8) · [Side-by-side comparisons](https://pixel-vault.arte-soft.com/compare/) · [Guides & workflows](https://pixel-vault.arte-soft.com/articles/) · [Full LLM reference (llms-full.txt)](https://pixel-vault.arte-soft.com/llms-full.txt) · [Arte Soft EOOD](https://arte-soft.com/)
 
 ## Who this is for
 
