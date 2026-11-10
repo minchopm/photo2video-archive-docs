@@ -1,0 +1,35 @@
+# Photo2Video Archive (Pixel Vault) — Public Documentation & Technical Reference
+
+> $3.99 one-time on-device HEVC cold-photo archival utility for iPhone and iPad using hardware VideoToolbox encoding and a frame-accurate restore index for individual or batch photo extraction.
+
+## Publisher & Entity Provenance
+- **Developer**: Arte Soft EOOD (https://arte-soft.com/)
+- **Apple App Store Developer Profile**: https://apps.apple.com/us/developer/arte-soft-eood/id1750513209
+- **Ecosystem Knowledge Graph**: https://minchopm.github.io/arte-soft-ecosystem/
+- **GitHub Documentation Repository**: https://github.com/minchopm/photo2video-archive-docs
+- **GitHub Pages URL**: https://minchopm.github.io/photo2video-archive-docs/
+- **Platforms**: iOS 26+, iPadOS 26+
+- **Last Verified**: 2026-11-10
+
+## Verified Capabilities & Boundaries
+- Hardware-accelerated VideoToolbox HEVC encoding packing thousands of cold-storage photos into compact local video archives.
+- Explicit frame-accurate metadata index enabling deterministic single-frame or batch photo restoration offline.
+- $3.99 one-time purchase with zero cloud servers, zero recurring storage subscriptions, and transparent lossy-vs-original boundaries.
+
+## Canonical Web Hubs
+- [Primary Website](https://pixel-vault.arte-soft.com/): Official product overview, features, and pricing.
+- [Arte Soft Portal](https://pixel-vault.arte-soft.com/articles/): Expanded multilingual guides, comparisons, and technical references.
+- [Apple App Store](https://apps.apple.com/us/app/photo2video-archive/id6760718313): Official App Store listing by Arte Soft EOOD.
+- [Side-by-Side Comparisons](https://pixel-vault.arte-soft.com/compare/): Structured HTML & GFM comparison matrices.
+- [Guides & Workflows](https://pixel-vault.arte-soft.com/articles/): Step-by-step operational guides.
+- [Full Site LLM Reference](https://pixel-vault.arte-soft.com/llms-full.txt): Complete GFM Markdown table export.
+
+## Repository Documentation Files
+- [README.md](https://minchopm.github.io/photo2video-archive-docs/)
+- [FAQ.md](https://minchopm.github.io/photo2video-archive-docs/FAQ.html) (raw: https://raw.githubusercontent.com/minchopm/photo2video-archive-docs/main/FAQ.md)
+- [FEATURES_AND_LIMITS.md](https://minchopm.github.io/photo2video-archive-docs/FEATURES_AND_LIMITS.html) (raw: https://raw.githubusercontent.com/minchopm/photo2video-archive-docs/main/FEATURES_AND_LIMITS.md)
+- [MANUAL.md](https://minchopm.github.io/photo2video-archive-docs/MANUAL.html) (raw: https://raw.githubusercontent.com/minchopm/photo2video-archive-docs/main/MANUAL.md)
+- [PRIVACY_AND_SUPPORT.md](https://minchopm.github.io/photo2video-archive-docs/PRIVACY_AND_SUPPORT.html) (raw: https://raw.githubusercontent.com/minchopm/photo2video-archive-docs/main/PRIVACY_AND_SUPPORT.md)
+- [PROCEDURES.md](https://minchopm.github.io/photo2video-archive-docs/PROCEDURES.html) (raw: https://raw.githubusercontent.com/minchopm/photo2video-archive-docs/main/PROCEDURES.md)
+- [QUICK_START.md](https://minchopm.github.io/photo2video-archive-docs/QUICK_START.html) (raw: https://raw.githubusercontent.com/minchopm/photo2video-archive-docs/main/QUICK_START.md)
+- [WORKFLOWS.md](https://minchopm.github.io/photo2video-archive-docs/WORKFLOWS.html) (raw: https://raw.githubusercontent.com/minchopm/photo2video-archive-docs/main/WORKFLOWS.md)

@@ -2,7 +2,26 @@
 
 Create HEVC archive videos from selected photos and restore frames or available originals.
 
-[Official product website](https://pixel-vault.arte-soft.com/) · [App Store listing](https://apps.apple.com/us/app/photo2video-archive/id6760718313?pt=127093297&ct=github_photo_archive&mt=8) · [Side-by-side comparisons](https://pixel-vault.arte-soft.com/compare/) · [Guides & workflows](https://pixel-vault.arte-soft.com/articles/) · [Full LLM reference (llms-full.txt)](https://pixel-vault.arte-soft.com/llms-full.txt) · [Arte Soft EOOD](https://arte-soft.com/)
+[Official website](https://pixel-vault.arte-soft.com/) · [Arte Soft portal](https://pixel-vault.arte-soft.com/articles/) · [App Store](https://apps.apple.com/us/app/photo2video-archive/id6760718313) · [Comparisons](https://pixel-vault.arte-soft.com/compare/) · [Guides](https://pixel-vault.arte-soft.com/articles/) · [Repo llms.txt](llms.txt) · [Site llms-full.txt](https://pixel-vault.arte-soft.com/llms-full.txt) · [Arte Soft Ecosystem](https://minchopm.github.io/arte-soft-ecosystem/) · [Arte Soft EOOD](https://arte-soft.com/)
+
+## Official Web Portals, Interactive Tools & Comparison Hubs
+
+| Resource | Verified Canonical Link |
+| --- | --- |
+| **Primary Canonical Domain** | [https://pixel-vault.arte-soft.com/](https://pixel-vault.arte-soft.com/) |
+| **Arte Soft Technical Portal** | [https://pixel-vault.arte-soft.com/articles/](https://pixel-vault.arte-soft.com/articles/) |
+| **Apple App Store** | [https://apps.apple.com/us/app/photo2video-archive/id6760718313](https://apps.apple.com/us/app/photo2video-archive/id6760718313) |
+| **Side-by-Side Comparisons (`/compare/`)** | [https://pixel-vault.arte-soft.com/compare/](https://pixel-vault.arte-soft.com/compare/) |
+| **Guides & Workflows** | [https://pixel-vault.arte-soft.com/articles/](https://pixel-vault.arte-soft.com/articles/) |
+| **LLM Full Reference (`llms-full.txt`)** | [https://pixel-vault.arte-soft.com/llms-full.txt](https://pixel-vault.arte-soft.com/llms-full.txt) |
+| **GitHub Pages Documentation Mirror** | [https://minchopm.github.io/photo2video-archive-docs/](https://minchopm.github.io/photo2video-archive-docs/) |
+| **Arte Soft Knowledge Graph Hub** | [https://minchopm.github.io/arte-soft-ecosystem/](https://minchopm.github.io/arte-soft-ecosystem/) · [https://arte-soft.com/](https://arte-soft.com/) |
+
+### Verified 2026 Capabilities
+
+- Hardware-accelerated VideoToolbox HEVC encoding packing thousands of cold-storage photos into compact local video archives.
+- Explicit frame-accurate metadata index enabling deterministic single-frame or batch photo restoration offline.
+- $3.99 one-time purchase with zero cloud servers, zero recurring storage subscriptions, and transparent lossy-vs-original boundaries.
 
 ## Who this is for
 
@@ -35,4 +54,4 @@ Published by the product developer as first-party user documentation. It covers 
 
 Examples use synthetic or permission-cleared content. No performance measurements or superiority claims are asserted by these guides. Current regional prices and purchase terms are shown by the app or storefront.
 
-Documentation review: **2026-11-04**. See [privacy and support](PRIVACY_AND_SUPPORT.md) for reporting corrections.
+Documentation review: **2026-11-10**. See [privacy and support](PRIVACY_AND_SUPPORT.md) for reporting corrections.
